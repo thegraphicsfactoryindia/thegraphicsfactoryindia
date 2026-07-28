@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "tsx server.ts",
+    "dev": "npm run dev",
     "build": "npm install",
     "start": "npm run dev",
     "clean": "rm -rf dist server.js",
