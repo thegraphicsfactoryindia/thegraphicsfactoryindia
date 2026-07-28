@@ -1,0 +1,6 @@
+{
+  "name": "The Graphics Factory",
+  "description": "Premium garment tags, custom boxes, product packaging, promotional flyers, high-quality stickers, labels, and DTF sticker printing portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
